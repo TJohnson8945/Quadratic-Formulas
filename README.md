@@ -10,7 +10,7 @@ The program was created on and runs with the Python IDLE IDE.
 ### Initialization
 The first five lines of the program initialize the variables a, b, c, xVertex, and Vertex.
 
-The initilization of the variables is followed by an output to the user explaining that we are trying to find the vertex and min/max of a parabola.
+The nitialization of the variables is followed by an output to the user explaining that we are trying to find the vertex and min/max of a parabola.
 
 ### Input for the variables
 The program then requests the user to input three floating point numbers for the variables a, b, and c.
