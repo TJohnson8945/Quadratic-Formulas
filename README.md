@@ -1,6 +1,6 @@
 # Quadratic-Formulas
 I was excited to learn to code, so I created a program to help me solve my math homework.
-This project was first created early in my semester of learning python, and I set out on my own to test my ability in problem solving.
+This project was created early in my semester of learning python, and I set out on my own to test my ability in problem solving.
 
 ## Getting Started
 The program was created on and runs with the Python IDLE IDE.
