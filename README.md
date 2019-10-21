@@ -31,3 +31,5 @@ If the input for a is greater than zero, it is true and prints the minimum.
 
 If the input for a is less than zero, it is false and prints the maximum.
 
+# Purpose
+The intent of creating this program was for me to test my limited knowledge of Python at the time of creation. As a result of making this program, I was more confident in my ability to do the math problems myself. I firmly believe that you need a strong grasp of the problem before you can code anything to solve it for you. Through the creation of this program, I started down my path of learning. I have my instructors and professors to thank for the instruction they have given me. 
